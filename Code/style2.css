@@ -1,5 +1,6 @@
 .bg{
     background:rgb(16, 16, 16);
+    background-image: linear-gradient(to bottom,#000000,#080808,#141414); 
     color: rgba(253, 244, 231, 0.84);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     transition: top 0.5s;
@@ -12,7 +13,7 @@
     top: 0;
     left: -2;
     width: 100%;
-    background-color: #000000a8;
+    background-color: #000000bd;
     padding: 5px;
 }
 
@@ -160,42 +161,42 @@ h2{
 }
 
 .card1{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 10%;
     width: 26%;  
     gap: 500px;
     color: rgba(250, 235, 215, 0.83);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43bb,#2c536475), url("./program.jpg");
+        #31313180,#101010bb,#00000075), url("./program.jpg");
     background-color: rgba(255, 255, 255, 0.348);
     padding-left: 1%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card11{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 10%;
     width: 26%;  
     gap: 500px;
     color: rgba(250, 235, 215, 0.83);
     background-image: linear-gradient(
         to bottom,
-        #0f2027c3,#203a43ec,#2c5364ed), url("./soft.jpg");
-    background-color: rgba(255, 255, 255, 0.348);
+        #313131d6,#101010eb,#000000e7), url("./soft.jpg");
+    background-color: rgba(0, 0, 0, 0.348);
     padding-left: 1%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card12{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 10%;
     width: 26%;  
     gap: 500px;
     color: rgba(250, 235, 215, 0.83);
     background-image: linear-gradient(
         to bottom,
-        #0f2027c3,#203a43ae,#2c5364c7), url("./off.jpg");
+        #313131d6,#101010eb,#000000e7), url("./off.jpg");
     background-color: rgba(255, 255, 255, 0.348);
     padding-left: 1%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -210,7 +211,7 @@ h2{
 }
 
 .card2{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -218,7 +219,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./cycle1.jpg");
+        #31313180,#101010bb,#00000075), url("./cycle1.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -226,7 +227,7 @@ h2{
 }
 
 .card3{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -234,7 +235,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./run.jpg");
+        #31313180,#101010bb,#00000075), url("./run.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -242,7 +243,7 @@ h2{
 }
 
 .card4{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -250,7 +251,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./badminton.jpg");
+        #31313180,#101010bb,#00000075), url("./badminton.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -258,7 +259,7 @@ h2{
 }
 
 .card5{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -266,7 +267,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./read.jpg");
+        #31313180,#101010bb,#00000075), url("./read.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -274,7 +275,7 @@ h2{
 }
 
 .card6{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -282,7 +283,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./scifi1.jpg");
+        #31313180,#101010bb,#00000075), url("./scifi1.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -290,7 +291,7 @@ h2{
 }
 
 .card7{
-    box-shadow: 0 5px 9px 10px #0f202785;
+    box-shadow: 0 5px 9px 10px #00000085;
     border-radius: 5%;
     width: 25%; 
     height: 100px;
@@ -298,7 +299,7 @@ h2{
     color: rgb(250, 235, 215);
     background-image: linear-gradient(
         to bottom,
-        #0f202780,#203a43cd,#2c536475), url("./swim.jpg");
+        #31313180,#101010bb,#00000075), url("./swim.jpg");
     background-color: rgba(255, 255, 255, 0.056);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
